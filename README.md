@@ -72,6 +72,9 @@ $$
 #### Variables:
 
 M = monthly payment (what you're solving for)
+
 P = principal (the loan balance — how much was borrowed)
+
 r = monthly interest rate, as a decimal (not the annual rate!)
+
 n = total number of monthly payments (loan term in months)
