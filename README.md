@@ -78,3 +78,7 @@ P = principal (the loan balance — how much was borrowed)
 r = monthly interest rate, as a decimal (not the annual rate!)
 
 n = total number of monthly payments (loan term in months)
+
+#### Acknowledgments:
+
+Visit https://www.investopedia.com/terms/a/amortization.asp for math explanations. 
