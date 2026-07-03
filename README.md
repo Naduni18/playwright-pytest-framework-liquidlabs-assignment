@@ -23,7 +23,7 @@ using Python, Pytest, and Playwright.
 4. Headed mode: `pytest --headed`
 
 ## HTML report: 
-               generated automatically at `report.html`
+  generated automatically at `report.html`
 
 ## Notes:
   Assertions use `pytest.approx` with tolerance because calculator.net rounds displayed values, so exact float equality isn't reliable.
